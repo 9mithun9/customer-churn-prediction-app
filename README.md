@@ -150,7 +150,7 @@ docker run -p 8000:8000 mithunmarshal/customer-churn-prediction-model
 > The frontend is built using Streamlit, allowing users to input customer details and instantly receive a churn prediction.
 
 <p align="center">
-  <img src="image/streamlit-ui.png" width="600" />
+  <img src="images/streamlit-ui.png" width="600" />
 </p>
 
 ---
@@ -160,7 +160,7 @@ docker run -p 8000:8000 mithunmarshal/customer-churn-prediction-model
 > Scan the QR code below to view the interactive Power BI dashboard:
 
 <p align="center">
-  <img src="image/customer-churn.jpg" width="200" />
+  <img src="images/customer-churn.jpg" width="200" />
 </p>
 
 Or open directly here:  
