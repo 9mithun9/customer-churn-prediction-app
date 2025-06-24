@@ -11,6 +11,12 @@ venv/
 *.pkl
 *.keras
 
+
+
+# data for power-bi
+*.csv
+
+
 # Environment/config
 .env
 
