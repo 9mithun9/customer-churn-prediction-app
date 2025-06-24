@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+myenv/
+venv/
+
+# Model artifacts
+*.pkl
+*.keras
+
+# Environment/config
+.env
+
+# Mac OS junk
+.DS_Store
